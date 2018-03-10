@@ -1,2 +1,3 @@
-# 0x4447-toolbox-lambda
-Our collection of useful AWS Lambda functions
+# 0x4447 Toolbox AWS Lambda Send Email
+
+This lambda allows you to send an email usign SES

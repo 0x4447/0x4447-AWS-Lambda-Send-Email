@@ -4,12 +4,12 @@ The purpouse of this AWS Lambda function is to quickly add email sending capapbi
 
 ```
 {
-    from	: '"First Last" <name@example.com>',
-    to		: 'name@example.com',
-    subject	: 'Nice subject',
-    reply_to: 'name@example.com'                    || '',
-    html	: '<p>HTML version of the message</p>'  || '',
-    text	: 'Plaintext version of the messag'     || ''
+    from	    : '"First Last" <name@example.com>',
+    to		    : 'name@example.com',
+    subject	    : 'Nice subject',
+    reply_to    : 'name@example.com'                    || '',
+    html	    : '<p>HTML version of the message</p>'  || '',
+    text	    : 'Plaintext version of the messag'     || ''
 }
 ```
 

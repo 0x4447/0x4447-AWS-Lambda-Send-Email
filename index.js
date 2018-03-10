@@ -8,7 +8,7 @@ let validate = require('validate.js');
 let	transporter = nodemailer.createTransport({
 
 	SES: new AWS.SES({
-		region: process.env.REGION
+		region: process.env.AWS_REGION
 	})
 
 });
@@ -31,6 +31,7 @@ exports.handler = function(event, context, callback) {
 		    text	: event.text		|| ''
 		}
 	};
+	
 
 	//
 	//	2.	Start the chain

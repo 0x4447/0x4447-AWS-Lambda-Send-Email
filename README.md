@@ -1,6 +1,6 @@
 # 0x4447 Toolbox AWS Lambda Send Email
 
-The purpouse of this AWS Lambda function is to quickly add email sending capapbilities in to your project. Once deployed you have to just invoce this function with the following payload:
+The purpose of this AWS Lambda function is to quickly add email sending capabilities to your project. Once deployed you can invoke this function with the following payload:
 
 ```
 {
@@ -24,7 +24,7 @@ The function will return the `messageId` and `response` so you can log the ID of
 
 # IAM Role
 
-For the function to wokr you'll need to create a Role with the following policies:
+For the function to work you'll need to create a Role with the following policies:
 
 - AWSLambdaBasicExecutionRole
 - AmazonSESFullAccess

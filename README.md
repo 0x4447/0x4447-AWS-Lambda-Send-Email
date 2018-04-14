@@ -31,7 +31,7 @@ For the function to work you'll need to create a Role with the following policie
 
 # The End
 
-If you enjoyed this project, please consider giving it a 🌟. And check out our [0x4447 GitHub account](https://github.com/0x4447), where we have additional articles and tools that you might find interesting.
+If you enjoyed this article/project, please consider giving it a 🌟. And check out our [0x4447 GitHub account](https://github.com/0x4447), where we have additional articles and tools that you might find interesting.
 
 # For Hire 👨‍💻 👩‍💻
 

@@ -1,4 +1,4 @@
-# 0x4447 Toolbox AWS Lambda Send Email
+# 0x4447 AWS Lambda Send Email
 
 The purpose of this AWS Lambda function is to quickly add email sending capabilities to your project. Once deployed you can invoke this function with the following payload:
 
